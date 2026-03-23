@@ -22,7 +22,9 @@
 <a href="https://github.com/prashanth1416">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+<a href="https://prashanth-dev.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 <br/><br/>
 
 [![](https://visitcount.itsvg.in/api?id=prashanth1416&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
