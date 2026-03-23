@@ -1,198 +1,229 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prashanth%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descColor=a78bfa&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,70:1a1a2e,100:16213e&height=220&section=header&text=Prashanth%20S&fontSize=72&fontColor=e2e8f0&fontAlignY=40&fontStyle=bold&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Problem%20Solver&descSize=18&descColor=64748b&descAlignY=62&animation=fadeIn" />
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+web+experiences;Full+Stack+%7C+Python+%7C+React+%7C+ML;Turning+ideas+into+real+products;Open+to+collaborate+%26+innovate!)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=18&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=580&lines=Crafting+intelligent+web+experiences+✦;Python+·+React+·+Flask+·+Node.js+·+ML;From+UI+pixels+to+backend+logic+—+all+of+it.;Open+to+collaborate+on+ambitious+ideas.)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashanthofficial634@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+<a href="https://www.linkedin.com/in/prashanth1416">
+  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/prashanth_14__">
+  <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:prashanthofficial634@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/prashanth1416">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=prashanth-s&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+<br/><br/>
 
-</div>
-
----
-
-## 🧠 About Me
-
-```python
-class Prashanth:
-    def __init__(self):
-        self.name        = "Prashanth S"
-        self.role        = "Full Stack Developer"
-        self.college     = "PPG Institute of Technology, Coimbatore"
-        self.degree      = "B.Tech in Information Technology (2022–2026)"
-        self.cgpa        = 7.6
-        self.location    = "India 🇮🇳"
-        self.languages   = ["English", "Tamil", "Telugu"]
-
-    def current_focus(self):
-        return [
-            "🤖 Building AI-powered web & mobile applications",
-            "🧪 Exploring ML model integration in full-stack apps",
-            "☁️  Deepening expertise in Cloud & DevOps",
-            "📱 Crafting seamless mobile experiences",
-        ]
-
-    def fun_fact(self):
-        return "I built a real-time Sign Language Translator using ML. 🤟"
-```
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-### 🖥️ Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+[![](https://visitcount.itsvg.in/api?id=prashanth1416&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
+<br/>
+
 ---
 
-## 🔥 Featured Projects
+## ◈ Who Am I
 
-<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### 🤟 Sign Language Translator
-**`Python` `ML` `React.js` `Flask`**
-
-Real-time hand gesture recognition that converts sign language to speech with **multi-language support**. Powered by custom-trained ML models for accessibility.
-
-![ML](https://img.shields.io/badge/Machine%20Learning-blueviolet?style=flat-square)
-![Accessibility](https://img.shields.io/badge/Accessibility-green?style=flat-square)
-
-</td>
-<td width="50%">
-
-### 🧴 Skin Care AI
-**`Python` `JavaScript` `Node.js`**
-
-AI-powered web & mobile app that analyzes skin images, identifies skin issues, and **recommends personalized remedies and products** using computer vision.
-
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-orange?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-red?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🗳️ Fingerprint Voting System
-**`Python` `Biometric Libraries` `Database`**
-
-Secure digital voting platform with **biometric fingerprint authentication**, election compliance, and airtight data integrity mechanisms.
-
-![Biometric](https://img.shields.io/badge/Biometrics-darkblue?style=flat-square)
-![Security](https://img.shields.io/badge/Security-critical?style=flat-square)
-
-</td>
-<td width="50%">
-
-### 🛒 E-Commerce Platform
-**`HTML5` `CSS3` `Flask` `Python`**
-
-Full-stack e-commerce solution with **user authentication**, product catalog management, and a powerful admin dashboard.
-
-![Full Stack](https://img.shields.io/badge/Full%20Stack-teal?style=flat-square)
-![E-Commerce](https://img.shields.io/badge/E--Commerce-yellow?style=flat-square)
+> **Hey, I'm Prashanth** — a full-stack developer from India who obsesses over the intersection of design and logic.
+>
+> I build things that are **clean on the outside** and **solid on the inside** — whether that's a skincare AI that reads your face, a sign language translator that bridges communication gaps, or a biometric voting system that puts security first.
+>
+> I don't just write code. I think about **why** something needs to exist, **how** a user will feel when they use it, and **what** makes it worth building. Then I build it — frontend to backend, API to database.
+>
+> Currently pursuing **B.Tech in IT** at PPG Institute of Technology (2026) · CGPA 7.6
+> Interned at **BICS Global** (Chennai) & **Uniq Softtech** (Coimbatore)
 
 </td>
 </tr>
 </table>
-</div>
-
----
-
-## 💼 Experience
-
-```
-📌 Full Stack Web Development Intern          BICS Global, Chennai        Feb 2025
-   ├── Built Python-based full stack web applications end-to-end
-   └── REST APIs · Database Integration · Deployment Workflows
-
-📌 App Development Intern                     Uniq Softtech, Coimbatore   Jul 2025
-   ├── Developed mobile applications using modern frameworks
-   └── UI/UX Design · Full App Lifecycle Management
-```
-
----
-
-## 🏅 Certifications
 
 <div align="center">
 
-| Certification | Issuer | Year |
+| 🎯 Current Focus | 🌱 Learning | 💡 Interested In |
 |---|---|---|
-| 🔵 Google Data Analytics | Google | 2025 |
-| ☁️ Google Cloud Engineering | Google | 2025 |
-| 🌐 Cloud Computing | — | 2025 |
-| 💻 Web Development | — | 2024 |
-| 🐍 Python Fundamentals | — | 2024 |
-| ☕ Basics of Java | Infosys Springboard | 2024 |
+| AI-powered full stack apps | Cloud Architecture & DevOps | Biometric Systems |
+| React Native mobile dev | Advanced ML model tuning | Accessibility Tech |
+| REST API design patterns | System design principles | Open Source |
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prashanth-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=prashanth-s&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-> *"Code is not just syntax — it's the language of solutions."*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashanthofficial634@gmail.com)
+---
+
+## ◈ Tech Arsenal
+
+<div align="center">
+
+**— Languages —**
+
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-0a0a0f?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-0a0a0f?style=for-the-badge&logo=c&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-0a0a0f?style=for-the-badge&logo=csharp&logoColor=239120)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0f?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0f?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+**— Frontend —**
+
+![React](https://img.shields.io/badge/React-0a0a0f?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-0a0a0f?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0a0f?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Vite](https://img.shields.io/badge/Vite-0a0a0f?style=for-the-badge&logo=vite&logoColor=646CFF)
+
+**— Backend & APIs —**
+
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0f?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![Flask](https://img.shields.io/badge/Flask-0a0a0f?style=for-the-badge&logo=flask&logoColor=ffffff)
+![.NET](https://img.shields.io/badge/.NET-0a0a0f?style=for-the-badge&logo=dotnet&logoColor=5C2D91)
+![JWT](https://img.shields.io/badge/JWT-0a0a0f?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff)
+
+**— AI & Data Science —**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0f?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/Keras-0a0a0f?style=for-the-badge&logo=keras&logoColor=D00000)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0a0f?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0f?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0f?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0a0a0f?style=for-the-badge&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0a0f?style=for-the-badge&logo=python&logoColor=11557c)
+![SciPy](https://img.shields.io/badge/SciPy-0a0a0f?style=for-the-badge&logo=scipy&logoColor=0C55A5)
+
+**— Databases —**
+
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0f?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0f?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
+![SQLite](https://img.shields.io/badge/SQLite-0a0a0f?style=for-the-badge&logo=sqlite&logoColor=07405e)
+![MSSQL](https://img.shields.io/badge/SQL_Server-0a0a0f?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+
+**— Cloud & DevOps —**
+
+![Azure](https://img.shields.io/badge/Azure-0a0a0f?style=for-the-badge&logo=microsoftazure&logoColor=0089D6)
+![Google Cloud](https://img.shields.io/badge/GCP-0a0a0f?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Netlify](https://img.shields.io/badge/Netlify-0a0a0f?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Apache](https://img.shields.io/badge/Apache-0a0a0f?style=for-the-badge&logo=apache&logoColor=D42029)
+
+</div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+---
+
+## ◈ Signature Projects
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                        FEATURED BUILDS                              ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🤟  Sign Language Translator                              2025     ║
+║      Real-time gesture recognition → speech, multi-language        ║
+║      Python · ML · React.js · Flask · OpenCV                       ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🧴  Skin Care AI                                          2025     ║
+║      Analyze skin images → identify issues → recommend fixes       ║
+║      Python · Node.js · JavaScript · Custom CV Models              ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🗳️  Fingerprint Voting System                             2025     ║
+║      Biometric auth · election-grade security · data integrity     ║
+║      Python · Biometric Libraries · Secure Database                ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🛒  E-Commerce Platform                                   2024     ║
+║      Auth · product catalog · admin dashboard — full stack         ║
+║      HTML5 · CSS3 · Flask · Python · Database                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+---
+
+## ◈ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prashanth1416&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth1416&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&count_private=true" height="170"/>
+
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=prashanth1416&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=64748b" />
+
+</div>
+
+<br/>
+
+---
+
+## ◈ Certifications
+
+<div align="center">
+
+| Badge | Certification | Year |
+|:---:|---|:---:|
+| <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white"/> | Google Data Analytics | 2025 |
+| <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> | Google Cloud Engineering | 2025 |
+| <img src="https://img.shields.io/badge/Cloud-4A90D9?style=flat-square&logo=icloud&logoColor=white"/> | Cloud Computing | 2025 |
+| <img src="https://img.shields.io/badge/Web-E34F26?style=flat-square&logo=html5&logoColor=white"/> | Web Development | 2024 |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> | Python Fundamentals | 2024 |
+| <img src="https://img.shields.io/badge/Infosys-007CC3?style=flat-square&logo=infosys&logoColor=white"/> | Basics of Java — Infosys Springboard | 2024 |
+
+</div>
+
+<br/>
+
+---
+
+## ◈ Experience Timeline
+
+<div align="center">
+
+```
+2025 ──────────────────────────────────────────────────────────────────
+
+  [ Feb ]  Full Stack Web Development Intern @ BICS Global, Chennai
+           └─ Python full stack · REST APIs · DB integration · Deployment
+
+  [ Jul ]  App Development Intern @ Uniq Softtech, Coimbatore
+           └─ Mobile apps · UI/UX design · Full app lifecycle
+
+2024 ──────────────────────────────────────────────────────────────────
+
+  [ Dec ]  E-Commerce Platform — first major full stack product shipped
+```
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+*"I don't just build features — I build experiences worth using."*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0d1b2a,100:0a0a0f&height=120&section=footer&animation=fadeIn"/>
 
 </div>
